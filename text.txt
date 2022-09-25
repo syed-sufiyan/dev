@@ -1,2 +1,5 @@
 This is my first index file 
 this is working of rtghe projet  jus for the cheking 
+================================
+by this command git -a -m " direct commit "
+with the help of this command we can skip staging are and it will be direct to commit b but untracked file wouldnot not stage area...
